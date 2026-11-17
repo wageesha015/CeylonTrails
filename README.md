@@ -1,4 +1,4 @@
-# CeylonTrails 🇱🇰 — Sri Lankan Travel & Destination Guide
+# CeylonTrails  — Sri Lankan Travel & Destination Guide
 
 * **Student Name:** Wageesha Tharu
 * **Student ID:** PE/2022/015
